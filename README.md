@@ -1,29 +1,10 @@
 # chordino_project
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a personal project that I'm making with Howard Zhang. This web app can read MP3 files and display guitar chord diagrams using the Chordino library:
 
-## Recommended IDE Setup
+## Credits
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Thank you to Howard Zhang for giving me the push to setup this project and for creating the initial code to display the chords.
 
-## Customize configuration
+This is the link to the Chordino project if anyone is interested: http://www.isophonics.net/nnls-chroma
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
